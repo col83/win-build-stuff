@@ -17,6 +17,8 @@ The following will describe the difficulty levels for each software.
 Official site - ``` https://msmgtoolkit.in/ ``` <br>
 Mirror - ``` https://www.majorgeeks.com/files/details/msmg_toolkit.html ```
 
+<br>
+
 (NTLite)
 
 Official site - ``` https://www.ntlite.com/ ``` <br>
@@ -39,16 +41,21 @@ Official repository - ``` https://github.com/CodingWonders/DISMTools ```
 ADK - ``` https://go.microsoft.com/fwlink/?linkid=2243390 ``` <br>
 Win PE add-on for ADK - ``` https://go.microsoft.com/fwlink/?linkid=2243391 ```
 
+<br>
 
 (WIM Witch)
 
 Official site - ``` https://msendpointmgr.com/wim-witch/ ``` <br>
 PowerShell Gallery - ``` https://www.powershellgallery.com/packages/WIMWitch ```
 
+<br>
+
 (WimWitchFK)
 
 Official repository - ``` https://github.com/alaurie/WimWitchFK ``` <br>
 PowerShell Gallery - ``` https://www.powershellgallery.com/packages/WimWitchFK ```
+
+<br>
 
 (OSDBuilder)
 
