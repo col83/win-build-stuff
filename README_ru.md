@@ -1,4 +1,4 @@
-Введение
+<h2>Введение</h2>
 
 Этот репозиторий содержит ресурсы для самостоятельного обучения и/или сборки Windows.
 
@@ -8,56 +8,56 @@
 
 Далее будут описаны уровни сложности для каждого ПО.
 
+<br>
 
-[Легко]
+<h2>[Легко]</h2>
 
 (MSMG Toolkit)
 
-Оффициальный сайт - https://msmgtoolkit.in/
+Оффициальный сайт - ``` https://msmgtoolkit.in/ ``` <br>
+Зеркало - ``` https://www.majorgeeks.com/files/details/msmg_toolkit.html ```
 
-Зеркало - https://www.majorgeeks.com/files/details/msmg_toolkit.html
-
+<br>
 
 (NTLite)
 
-Оффициальный сайт - https://www.ntlite.com/
-
+Оффициальный сайт - ``` https://www.ntlite.com/ ``` <br>
 Зеркало - https://www.majorgeeks.com/files/details/ntlite.html
 
+<br>
 
-[Средняя сложность]
+<h2>[Средняя сложность]</h2>
 
 (DISMTools)
 
-Оффициальный репозиторий - https://github.com/CodingWonders/DISMTools
+Оффициальный репозиторий - ``` https://github.com/CodingWonders/DISMTools ``` 
 
-[Сложно]
+<br>
 
-(Windows ADK)
+<h2>[Сложно]</h2>
 
-Ссылки (10.1.25398.1):
+(Windows ADK) 
 
-ADK - https://go.microsoft.com/fwlink/?linkid=2243390
+ADK - ``` https://go.microsoft.com/fwlink/?linkid=2243390 ``` <br>
+Надстройка Win PE для ADK - ``` https://go.microsoft.com/fwlink/?linkid=2243391 ```
 
-Надстройка Win PE для ADK - https://go.microsoft.com/fwlink/?linkid=2243391
-
+<br>
 
 (WIM Witch)
 
-Оффициальный сайт - https://msendpointmgr.com/wim-witch/
+Оффициальный сайт - ``` https://msendpointmgr.com/wim-witch/ ``` <br>
+PowerShell Gallery - ``` https://www.powershellgallery.com/packages/WIMWitch ```
 
-PowerShell Gallery - https://www.powershellgallery.com/packages/WIMWitch
-
+<br>
 
 (WimWitchFK)
 
-Оффициальный репозиторий - https://github.com/alaurie/WimWitchFK
+Оффициальный репозиторий - ``` https://github.com/alaurie/WimWitchFK ```
+PowerShell Gallery - ``` https://www.powershellgallery.com/packages/WimWitchFK ```
 
-PowerShell Gallery - https://www.powershellgallery.com/packages/WimWitchFK
-
+<br>
 
 (OSDBuilder)
 
-Оффициальный репозиторий - https://github.com/OSDeploy/OSDBuilder
-
-PowerShell Gallery - https://www.powershellgallery.com/packages/OSDBuilder
+Оффициальный репозиторий - ``` https://github.com/OSDeploy/OSDBuilder ``` <br>
+PowerShell Gallery - ``` https://www.powershellgallery.com/packages/OSDBuilder ```
