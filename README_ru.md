@@ -52,7 +52,7 @@ PowerShell Gallery - https://www.powershellgallery.com/packages/WIMWitch
 
 (WimWitchFK)
 
-Оффициальный репозиторий - https://github.com/alaurie/WimWitchFK
+Оффициальный репозиторий - https://github.com/alaurie/WimWitchFK <br>
 PowerShell Gallery - https://www.powershellgallery.com/packages/WimWitchFK
 
 <br>
